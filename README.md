@@ -1,12 +1,14 @@
 <div align="center">
 
-# Agent-A B2B Marketing Skills
+# Agent-A
 
-### Open-source AI skills for modern B2B marketing teams.
+## The Human-Governed AI Marketing Operating System
 
-Built from real-world execution across **7+ multinational brands**, Agent-A transforms AI assistants into structured B2B marketing partners capable of researching, planning, and executing high-impact marketing workflows.
+**Think Like a Team. Execute Like a System.**
 
-> **From strategy to execution. Built by marketers, for marketers.**
+Transform AI from a general-purpose assistant into a coordinated B2B marketing organization through **Skills**, **Orchestrators**, and **Governance**.
+
+**10 Specialist Skills • 5 Orchestrators • 1 Governance Framework**
 
 ⭐ If Agent-A helps you, consider giving this repository a star.
 
@@ -14,56 +16,239 @@ Built from real-world execution across **7+ multinational brands**, Agent-A tran
 
 ---
 
-# Why Agent-A Exists
+## Why Agent-A Exists
 
-AI is incredibly capable.
+Most AI prompts solve one marketing task in isolation.
 
-But without the right process, it often produces generic marketing.
+Real marketing doesn't work that way.
 
-Real marketing isn't just writing.
+Market research informs customer research.
 
-It's understanding customers.
-Questioning assumptions.
-Researching competitors.
-Building positioning.
-Planning campaigns.
-Measuring outcomes.
+Customer research shapes positioning.
 
-Agent-A brings those real-world marketing workflows into reusable AI skills so every conversation starts with better thinking, not better guessing.
+Positioning drives messaging.
+
+Messaging influences SEO, content, landing pages, and campaigns.
+
+Agent-A follows the same execution model.
+
+Instead of relying on one massive prompt, Agent-A divides marketing execution into specialist skills, coordinates them through orchestrators, and governs every output using shared principles and quality standards.
+
+Every output becomes context for the next specialist.
+
+By the end, you don't just have answers—you have a complete marketing operating system.
+## Architecture
+
+```
+User Request
+      │
+      ▼
+┌────────────────────────────┐
+│        Team Leader         │
+│ Plans • Routes • Decides   │
+└─────────────┬──────────────┘
+              │
+              ▼
+┌────────────────────────────┐
+│     Specialist Skills      │
+│ Research • Strategy • SEO  │
+│ GEO • Content • Positioning│
+└─────────────┬──────────────┘
+              │
+              ▼
+┌────────────────────────────┐
+│        Governance          │
+│ Constitution • Standards   │
+│ Quality Gates • Handoffs   │
+└─────────────┬──────────────┘
+              │
+              ▼
+┌────────────────────────────┐
+│      Final Deliverable     │
+└────────────────────────────┘
+```
 
 ---
 
-# Built in the Real World
+# The Agent-A Framework
 
-Agent-A isn't a collection of random prompts.
+Agent-A is built on three layers.
 
-Every skill is inspired by practical marketing execution across **7+ multinational brands**, refined through product launches, SEO initiatives, growth experiments, content strategies, and GTM planning.
-
-The objective is simple:
-
-> Help AI think more like an experienced B2B marketer.
+| Layer | Purpose |
+|--------|---------|
+| **Skills** | Execute specialized marketing work |
+| **Orchestrators** | Coordinate specialists and workflows |
+| **Governance** | Maintain quality, consistency, and execution standards |
 
 ---
 
-# Skills Roadmap
+# Specialist Skills
 
-This repository will continuously expand with practical marketing skills, including:
+Work through them in order (recommended) or jump directly to the skill you need.
 
-- Market Research
-- ICP Research
-- Competitor Analysis
-- Product Positioning
-- Messaging Frameworks
-- SEO Strategy
-- GEO Strategy
-- Landing Page Planning
-- Content Strategy
-- Blog Writing
-- LinkedIn Marketing
-- Email Campaigns
-- Product Launch Planning
-- Marketing Reviews
-- Growth Experiments
+| # | Skill | Purpose |
+|---|--------|---------|
+| 1 | Market Research | Understand the market before making decisions |
+| 2 | ICP Research | Define ideal customer profiles |
+| 3 | Competitor Analysis | Analyze direct and indirect competitors |
+| 4 | Product Positioning | Build positioning and messaging |
+| 5 | SEO Strategist | Organic search strategy |
+| 6 | GEO Strategist | AI & Generative Engine Optimization |
+| 7 | Content Marketing | Editorial and content strategy |
+| 8 | Landing Page Strategist | Conversion-focused landing pages |
+| 9 | LinkedIn Strategist | Organic distribution and thought leadership |
+| 10 | Marketing Audit | Review and optimize marketing execution |
+
+---
+
+# Orchestrators
+
+These coordinate work instead of producing marketing deliverables.
+
+| Role | Responsibility |
+|------|----------------|
+| Team Leader | Plans execution and routes work |
+| Reviewer | Validates quality and completeness |
+| Legal Review | Reviews compliance and marketing claims |
+| CMO | Business and strategic approval |
+| Release Manager | Final publication readiness |
+
+---
+
+# Governance
+
+Every specialist follows the same operating principles.
+
+- Constitution
+- Execution Rules
+- Quality Gates
+- Handoff Rules
+- Output Standards
+
+Governance ensures every workflow remains transparent, consistent, and repeatable.
+
+---
+
+# Works With
+
+Agent-A is built using Markdown-based skills and works with modern AI assistants that support project knowledge or custom instructions.
+
+### Recommended
+
+- Claude Code
+- Claude Desktop Projects
+- Claude.ai Projects
+
+### Also Compatible
+
+- ChatGPT Projects
+- Gemini Gems
+- Cursor
+- Windsurf
+- VS Code AI Extensions
+- Any AI workspace that supports Markdown knowledge
+
+---
+
+# Quick Start
+
+### Step 1 — Clone the repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/Agent-A.git
+cd Agent-A
+```
+
+Or download the repository as a ZIP.
+
+---
+
+### Step 2 — Choose your AI platform
+
+Open the repository in your preferred AI workspace.
+
+Recommended:
+
+- Claude Code
+- Claude.ai Projects
+- ChatGPT Projects
+
+---
+
+### Step 3 — Share your marketing context
+
+Tell your AI about:
+
+- Your company
+- Product or service
+- Industry
+- Target audience
+- Marketing goals
+
+Example:
+
+> Help me create my Agent-A marketing context.
+
+---
+
+### Step 4 — Start collaborating
+
+Example prompts:
+
+```
+Conduct market research.
+
+Help me define my ICP.
+
+Build my product positioning.
+
+Create an SEO strategy.
+
+Review my landing page.
+
+What should I work on next?
+```
+
+---
+
+# How Agent-A Works
+
+```
+Market Research
+        │
+        ▼
+ICP Research
+        │
+        ▼
+Competitor Analysis
+        │
+        ▼
+Product Positioning
+        │
+        ▼
+SEO Strategy
+        │
+        ▼
+GEO Strategy
+        │
+        ▼
+Content Marketing
+        │
+        ▼
+Landing Page Strategy
+        │
+        ▼
+LinkedIn Strategy
+        │
+        ▼
+Marketing Audit
+```
+
+Every specialist contributes one piece.
+
+Every output becomes context for the next specialist.
+
+Nothing works in isolation.
 
 ---
 
@@ -71,59 +256,132 @@ This repository will continuously expand with practical marketing skills, includ
 
 ```
 .
-├── assets/
+├── governance/
+│   ├── constitution.md
+│   ├── execution.md
+│   ├── quality-gates.md
+│   ├── handoff-rules.md
+│   └── output-standard.md
+│
+├── orchestrators/
+│   ├── team-leader.md
+│   ├── reviewer.md
+│   ├── legal-review.md
+│   ├── cmo.md
+│   └── release-manager.md
+│
+├── skills/
+│   ├── market-research.md
+│   ├── icp-research.md
+│   ├── competitor-analysis.md
+│   ├── product-positioning.md
+│   ├── seo-strategist.md
+│   ├── geo-strategist.md
+│   ├── content-marketing.md
+│   ├── landing-page-strategist.md
+│   ├── linkedin-strategist.md
+│   └── marketing-audit.md
+│
 ├── docs/
 ├── examples/
-├── skills/
 ├── templates/
 └── README.md
 ```
 
 ---
 
+# FAQ
+
+### Do I need to be technical?
+
+No.
+
+Agent-A consists of Markdown files that work with modern AI assistants.
+
+---
+
+### Do I need an API key?
+
+No.
+
+You can use Agent-A with your preferred AI platform.
+
+---
+
+### Should I follow the skills in order?
+
+Yes.
+
+Each specialist builds upon the work of the previous specialist.
+
+You can also jump directly to any skill if you already have the required context.
+
+---
+
+### Can I customize the skills?
+
+Absolutely.
+
+Every skill is a Markdown file and can be adapted to your own workflow or methodology.
+
+---
+
+### Can my team use Agent-A?
+
+Yes.
+
+Teams can collaborate using the same framework or adapt it to their own marketing processes.
+
+---
+
 # Roadmap
 
-- ✅ Repository Launch
-- ✅ Marketing Skill Framework
-- ✅ Market Research Skill
-- ✅ SEO Strategy Skill
-- ✅ GEO Strategy Skill
-- ✅ Product Positioning Skill
-- ✅ Landing Page Skill
-- ✅ Content Marketing Skill
-- ✅ AI Marketing Playbooks
-- ⏳ Community Contributions
+## Phase 1
+
+- Governance Framework
+- Orchestrators
+- Core Marketing Skills
+
+## Phase 2
+
+- Templates
+- Marketing Playbooks
+- Example Projects
+
+## Phase 3
+
+- Product Marketing
+- Demand Generation
+- Sales Enablement
+- Customer Success
+- PR & Communications
 
 ---
 
-# Community
+# About
 
-Agent-A is an open-source initiative started by **Vishal Solanki** and shared with the **Ahmedabad GTM Community**.
+Agent-A is a personal open-source project created by **Vishal Solanki**.
 
-The vision is to build the most practical collection of AI-powered B2B marketing skills through real-world collaboration and community contributions.
+The framework is built from practical B2B marketing experience gained while working with **7+ companies** across SaaS, AI, Accessibility, Digital Agencies, SEO, GEO, and Go-to-Market execution.
 
-If you've developed a repeatable marketing workflow, we'd love to learn from it.
+Rather than teaching AI with isolated prompts, Agent-A provides a structured operating system where specialist skills, orchestrators, and governance work together to produce consistent, transparent, and high-quality marketing outcomes.
 
----
-
-# Contributing
-
-Ideas, improvements, and new skills are always welcome.
-
-Open an Issue, submit a Pull Request, or start a discussion.
-
-Let's build better AI marketing workflows together.
+**Created by:** https://www.linkedin.com/in/vishal-solanki/
 
 ---
 
 # License
 
-Released under the MIT License.
+MIT License
 
 ---
 
 <div align="center">
 
-**Built in public. Improved by the community.**
+## Human Intelligence. AI Execution. Governed by Principles.
+
+**Built in Public by Vishal Solanki.**
+
+If Agent-A helps you, consider ⭐ starring the repository.
 
 </div>
