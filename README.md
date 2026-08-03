@@ -461,6 +461,13 @@ Rather than teaching AI with isolated prompts, Agent-A provides a structured ope
 MIT License
 
 ---
+## Community
+
+- 📖 [Contributing Guide](CONTRIBUTING.md)
+- 📝 [Changelog](CHANGELOG.md)
+- 🤝 [Code of Conduct](CODE_OF_CONDUCT.md)
+
+We welcome feedback, ideas, bug reports, and contributions from the community.
 
 > **Human Intelligence. AI Execution. Governed by Principles.**
 >
