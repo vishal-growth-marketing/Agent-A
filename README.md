@@ -1,3 +1,20 @@
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Version](https://img.shields.io/badge/version-v1.0-success.svg)
+![Markdown](https://img.shields.io/badge/markdown-100%25-black.svg)
+
+
+## Table of Contents
+
+- Why Agent-A Exists
+- Architecture
+- Skills
+- Governance
+- Quick Start
+- Repository Structure
+- FAQ
+- Roadmap
+- Contributing
+- About
 # Agent-A
 
 ## The Human-Governed AI Marketing Operating System
