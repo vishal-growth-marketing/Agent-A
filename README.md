@@ -1,22 +1,18 @@
-<div align="center">
-
 # Agent-A
 
 ## The Human-Governed AI Marketing Operating System
 
 **Think Like a Team. Execute Like a System.**
 
-Transform AI from a general-purpose assistant into a coordinated B2B marketing organization through **Skills**, **Orchestrators**, and **Governance**.
+Transform AI from a general-purpose assistant into a coordinated B2B marketing organization through specialist Skills, Orchestrators, and shared Governance.
 
-**10 Specialist Skills • 5 Orchestrators • 1 Governance Framework**
+**10 Specialist Skills • 5 Orchestrators • Shared Governance**
 
 ⭐ If Agent-A helps you, consider giving this repository a star.
 
-</div>
-
 ---
 
-## Why Agent-A Exists
+# Why Agent-A Exists
 
 Most AI prompts solve one marketing task in isolation.
 
@@ -37,9 +33,42 @@ Instead of relying on one massive prompt, Agent-A divides marketing execution in
 Every output becomes context for the next specialist.
 
 By the end, you don't just have answers—you have a complete marketing operating system.
-## Architecture
 
-```
+---
+
+# Who Is Agent-A For?
+
+Agent-A is designed for:
+
+- B2B Marketing Leaders
+- Startup Founders
+- SaaS Companies
+- Digital Agencies
+- Product Marketers
+- Growth Teams
+- Solo Marketers using AI
+
+Whether you're building a marketing strategy from scratch or improving an existing one, Agent-A provides a structured execution framework instead of isolated AI prompts.
+
+---
+
+# Core Principles
+
+Everything in Agent-A follows these principles:
+
+- Human-Governed AI
+- Strategy Before Execution
+- Evidence Before Opinion
+- Specialists Over Generalists
+- One Responsibility Per Role
+- Every Output Becomes Context
+- Consistency Through Governance
+
+---
+
+# Architecture
+
+```text
 User Request
       │
       ▼
@@ -76,9 +105,9 @@ Agent-A is built on three layers.
 
 | Layer | Purpose |
 |--------|---------|
-| **Skills** | Execute specialized marketing work |
-| **Orchestrators** | Coordinate specialists and workflows |
-| **Governance** | Maintain quality, consistency, and execution standards |
+| Skills | Execute specialized marketing work |
+| Orchestrators | Coordinate specialists and workflows |
+| Governance | Maintain quality, consistency, and execution standards |
 
 ---
 
@@ -87,7 +116,7 @@ Agent-A is built on three layers.
 Work through them in order (recommended) or jump directly to the skill you need.
 
 | # | Skill | Purpose |
-|---|--------|---------|
+|---|-------|---------|
 | 1 | Market Research | Understand the market before making decisions |
 | 2 | ICP Research | Define ideal customer profiles |
 | 3 | Competitor Analysis | Analyze direct and indirect competitors |
@@ -152,7 +181,7 @@ Agent-A is built using Markdown-based skills and works with modern AI assistants
 
 # Quick Start
 
-### Step 1 — Clone the repository
+## Step 1 — Clone the Repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/Agent-A.git
@@ -163,7 +192,7 @@ Or download the repository as a ZIP.
 
 ---
 
-### Step 2 — Choose your AI platform
+## Step 2 — Choose Your AI Platform
 
 Open the repository in your preferred AI workspace.
 
@@ -175,7 +204,7 @@ Recommended:
 
 ---
 
-### Step 3 — Share your marketing context
+## Step 3 — Share Your Marketing Context
 
 Tell your AI about:
 
@@ -191,29 +220,22 @@ Example:
 
 ---
 
-### Step 4 — Start collaborating
+## Step 4 — Start Collaborating
 
 Example prompts:
 
-```
-Conduct market research.
-
-Help me define my ICP.
-
-Build my product positioning.
-
-Create an SEO strategy.
-
-Review my landing page.
-
-What should I work on next?
-```
+- Conduct market research.
+- Help me define my ICP.
+- Build my product positioning.
+- Create an SEO strategy.
+- Review my landing page.
+- What should I work on next?
 
 ---
 
 # How Agent-A Works
 
-```
+```text
 Market Research
         │
         ▼
@@ -254,7 +276,7 @@ Nothing works in isolation.
 
 # Repository Structure
 
-```
+```text
 .
 ├── governance/
 │   ├── constitution.md
@@ -285,14 +307,34 @@ Nothing works in isolation.
 ├── docs/
 ├── examples/
 ├── templates/
+├── .github/
+├── CONTRIBUTING.md
+├── CHANGELOG.md
+├── CODE_OF_CONDUCT.md
+├── LICENSE
 └── README.md
 ```
 
 ---
 
+# Current Version
+
+**v1.0**
+
+Included in this release:
+
+- ✅ 10 Marketing Skills
+- ✅ 5 Orchestrators
+- ✅ Shared Governance Framework
+- ✅ Documentation
+- ✅ Repository Templates
+- ✅ Open Source (MIT)
+
+---
+
 # FAQ
 
-### Do I need to be technical?
+## Do I need to be technical?
 
 No.
 
@@ -300,7 +342,7 @@ Agent-A consists of Markdown files that work with modern AI assistants.
 
 ---
 
-### Do I need an API key?
+## Do I need an API key?
 
 No.
 
@@ -308,7 +350,7 @@ You can use Agent-A with your preferred AI platform.
 
 ---
 
-### Should I follow the skills in order?
+## Should I follow the skills in order?
 
 Yes.
 
@@ -318,7 +360,7 @@ You can also jump directly to any skill if you already have the required context
 
 ---
 
-### Can I customize the skills?
+## Can I customize the skills?
 
 Absolutely.
 
@@ -326,7 +368,7 @@ Every skill is a Markdown file and can be adapted to your own workflow or method
 
 ---
 
-### Can my team use Agent-A?
+## Can my team use Agent-A?
 
 Yes.
 
@@ -358,11 +400,38 @@ Teams can collaborate using the same framework or adapt it to their own marketin
 
 ---
 
+# Contributing
+
+Contributions are welcome.
+
+Before submitting changes, please read:
+
+- `CONTRIBUTING.md`
+- `governance/constitution.md`
+- `governance/execution.md`
+- `docs/design-principles.md`
+
+Agent-A values consistency over complexity.
+
+Every contribution should align with the existing architecture, governance, and design principles.
+
+---
+
+# Vision
+
+Agent-A isn't another AI prompt library.
+
+It's an open framework for building Human-Governed AI marketing teams that think systematically, execute consistently, and improve over time.
+
+The long-term vision is to create an open standard for AI-assisted marketing execution.
+
+---
+
 # About
 
-Agent-A is a personal open-source project created by **Vishal Solanki**.
+Agent-A is an open-source project created by **Vishal Solanki**.
 
-The framework is built from practical B2B marketing experience gained while working with **7+ companies** across SaaS, AI, Accessibility, Digital Agencies, SEO, GEO, and Go-to-Market execution.
+The framework is built from practical B2B marketing experience across SaaS, AI, Accessibility, Digital Agencies, SEO, GEO, and Go-to-Market execution.
 
 Rather than teaching AI with isolated prompts, Agent-A provides a structured operating system where specialist skills, orchestrators, and governance work together to produce consistent, transparent, and high-quality marketing outcomes.
 
@@ -376,12 +445,8 @@ MIT License
 
 ---
 
-<div align="center">
-
-## Human Intelligence. AI Execution. Governed by Principles.
-
-**Built in Public by Vishal Solanki.**
-
-If Agent-A helps you, consider ⭐ starring the repository.
-
-</div>
+> **Human Intelligence. AI Execution. Governed by Principles.**
+>
+> Built in Public by **Vishal Solanki**.
+>
+> If Agent-A helps you, consider ⭐ starring the repository.
