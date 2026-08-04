@@ -141,7 +141,7 @@ User Request
 Agent-A is built on three layers.
 
 | Layer | Purpose |
-|--------|--------|
+|--------|----------|
 | Skills | Execute specialized marketing work |
 | Orchestrators | Coordinate specialists and workflows |
 | Governance | Maintain quality, consistency, and execution standards |
