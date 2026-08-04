@@ -32,6 +32,7 @@ You can contribute by:
 - Suggesting new ideas through GitHub Discussions
 
 AI coding assistants (e.g. Codex and Claude Code) may open Pull Requests on this repo. All PRs, human- or AI-authored, are held to the same review standard below.
+AI-authored Pull Requests should identify the assistant used in the PR description.
 
 If you're unsure whether a contribution belongs in Agent-A, start a Discussion before opening a Pull Request.
 
