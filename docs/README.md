@@ -82,7 +82,7 @@ docs/
 governance/
     │
     ▼
-orchestrators/
+orchestra/
     │
     ▼
 skills/
