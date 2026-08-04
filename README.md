@@ -322,7 +322,7 @@ Nothing works in isolation.
 │   ├── handoff-rules.md
 │   └── output-standard.md
 │
-├── orchestrators/
+├── orchestra/
 │   ├── team-leader.md
 │   ├── reviewer.md
 │   ├── legal-review.md
