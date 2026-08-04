@@ -2,36 +2,48 @@
 ![Version](https://img.shields.io/badge/version-v1.0-success.svg)
 ![Markdown](https://img.shields.io/badge/markdown-100%25-black.svg)
 
-
-## Table of Contents
-
-- Why Agent-A Exists
-- Architecture
-- Skills
-- Governance
-- Quick Start
-- Repository Structure
-- FAQ
-- Roadmap
-- Contributing
-- About
 # Agent-A
 
-## The Human-Governed AI Marketing Operating System
+## Human-Governed AI Marketing Operating System
 
 **Think Like a Team. Execute Like a System.**
 
-Transform AI from a general-purpose assistant into a coordinated B2B marketing organization through specialist Skills, Orchestrators, and shared Governance.
+Agent-A is an open-source framework that transforms AI from a general-purpose assistant into a coordinated B2B marketing organization through specialist Skills, Orchestrators, and shared Governance.
+
+Instead of relying on one massive prompt, Agent-A breaks marketing into specialized roles, structured workflows, and human-governed decision-making to produce consistent, transparent, and repeatable outcomes.
 
 **10 Specialist Skills • 5 Orchestrators • Shared Governance**
 
-⭐ If Agent-A helps you, consider giving this repository a star.
+⭐ If Agent-A helps you, please consider giving the repository a star.
 
+---
+
+## Table of Contents
+
+- [Why Agent-A Exists](#why-agent-a-exists)
+- [Who Is Agent-A For?](#who-is-agent-a-for)
+- [Core Principles](#core-principles)
+- [Architecture](#architecture)
+- [The Agent-A Framework](#the-agent-a-framework)
+- [Specialist Skills](#specialist-skills)
+- [Orchestrators](#orchestrators)
+- [Governance](#governance)
+- [Works With](#works-with)
+- [Quick Start](#quick-start)
+- [How Agent-A Works](#how-agent-a-works)
+- [Repository Structure](#repository-structure)
+- [FAQ](#faq)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [Vision](#vision)
+- [About](#about)
+- [License](#license)
+- [Community](#community)
 ---
 
 # Why Agent-A Exists
 
-Most AI prompts solve one marketing task in isolation.
+Most AI workflows solve one marketing task at a time.
 
 Real marketing doesn't work that way.
 
@@ -39,17 +51,21 @@ Market research informs customer research.
 
 Customer research shapes positioning.
 
-Positioning drives messaging.
+Positioning influences messaging.
 
-Messaging influences SEO, content, landing pages, and campaigns.
+Messaging drives SEO, GEO, content, landing pages, and distribution.
+
+Every decision depends on the quality of the previous one.
 
 Agent-A follows the same execution model.
 
-Instead of relying on one massive prompt, Agent-A divides marketing execution into specialist skills, coordinates them through orchestrators, and governs every output using shared principles and quality standards.
+Instead of relying on a single prompt to solve everything, Agent-A divides marketing into specialist Skills, coordinates them through Orchestrators, and governs every output using shared principles, quality standards, and structured handoffs.
 
 Every output becomes context for the next specialist.
 
-By the end, you don't just have answers—you have a complete marketing operating system.
+By the end, you don't just have answers.
+
+You have a complete marketing operating system.
 
 ---
 
@@ -65,13 +81,15 @@ Agent-A is designed for:
 - Growth Teams
 - Solo Marketers using AI
 
-Whether you're building a marketing strategy from scratch or improving an existing one, Agent-A provides a structured execution framework instead of isolated AI prompts.
+Whether you're building a marketing strategy from scratch or improving an existing one, Agent-A provides a structured execution framework instead of isolated prompts.
 
 ---
 
 # Core Principles
 
-Everything in Agent-A follows these principles:
+Everything inside Agent-A is built around a shared set of principles.
+
+These principles guide every Skill, every Orchestrator, every Governance rule, and every contribution.
 
 - Human-Governed AI
 - Strategy Before Execution
@@ -81,8 +99,9 @@ Everything in Agent-A follows these principles:
 - Every Output Becomes Context
 - Consistency Through Governance
 
----
+These principles are intentionally simple.
 
+They help every contributor make decisions that keep the framework modular, transparent, and consistent as it grows.
 # Architecture
 
 ```text
@@ -419,19 +438,20 @@ Teams can collaborate using the same framework or adapt it to their own marketin
 
 # Contributing
 
-Contributions are welcome.
+Thank you for your interest in contributing to Agent-A.
 
-Before submitting changes, please read:
+Before submitting a pull request, please review the core project documentation:
 
-- `CONTRIBUTING.md`
-- `governance/constitution.md`
-- `governance/execution.md`
-- `docs/design-principles.md`
+- `CONTRIBUTING.md` – Contribution guidelines and workflow
+- `governance/constitution.md` – Core principles and philosophy
+- `governance/execution.md` – Execution standards and quality expectations
+- `docs/design-principles.md` – Architecture and design decisions
 
-Agent-A values consistency over complexity.
+Agent-A is designed around **Human-Governed AI**, clear ownership, structured workflows, and shared governance.
 
-Every contribution should align with the existing architecture, governance, and design principles.
+Whether you're improving documentation, introducing a new Skill, refining an Orchestrator, or enhancing Governance, every contribution should align with the project's guiding principles and maintain consistency across the framework.
 
+We value **clarity over complexity, systems over shortcuts, and long-term maintainability over quick fixes.**
 ---
 
 # Vision
