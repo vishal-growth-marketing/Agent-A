@@ -10,7 +10,7 @@
 
 Agent-A is an open-source framework that transforms AI from a general-purpose assistant into a coordinated B2B marketing organization through specialist Skills, Orchestrators, and shared Governance.
 
-Instead of relying on one massive prompt, Agent-A breaks marketing into specialized roles, structured workflows, and human-governed decision-making to produce consistent, transparent, and repeatable outcomes.
+Instead of relying on one massive prompt, Agent-A breaks marketing into specialized roles, structured workflows, and human-governed decision-making to produce consistent, transparent, and repeatable marketing outcomes.
 
 **10 Specialist Skills • 5 Orchestrators • Shared Governance**
 
@@ -59,7 +59,7 @@ Every decision depends on the quality of the previous one.
 
 Agent-A follows the same execution model.
 
-Instead of relying on a single prompt to solve everything, Agent-A divides marketing into specialist Skills, coordinates them through Orchestrators, and governs every output using shared principles, quality standards, and structured handoffs.
+Instead of relying on a single prompt to solve everything, Agent-A divides marketing into specialist Skills, coordinates them through Orchestrators, and governs every output using shared principles.
 
 Every output becomes context for the next specialist.
 
@@ -102,6 +102,7 @@ These principles guide every Skill, every Orchestrator, every Governance rule, a
 These principles are intentionally simple.
 
 They help every contributor make decisions that keep the framework modular, transparent, and consistent as it grows.
+
 # Architecture
 
 ```text
@@ -140,7 +141,7 @@ User Request
 Agent-A is built on three layers.
 
 | Layer | Purpose |
-|--------|---------|
+|--------|----------|
 | Skills | Execute specialized marketing work |
 | Orchestrators | Coordinate specialists and workflows |
 | Governance | Maintain quality, consistency, and execution standards |
@@ -152,7 +153,7 @@ Agent-A is built on three layers.
 Work through them in order (recommended) or jump directly to the skill you need.
 
 | # | Skill | Purpose |
-|---|-------|---------|
+|---|-------|----------|
 | 1 | Market Research | Understand the market before making decisions |
 | 2 | ICP Research | Define ideal customer profiles |
 | 3 | Competitor Analysis | Analyze direct and indirect competitors |
@@ -449,9 +450,10 @@ Before submitting a pull request, please review the core project documentation:
 
 Agent-A is designed around **Human-Governed AI**, clear ownership, structured workflows, and shared governance.
 
-Whether you're improving documentation, introducing a new Skill, refining an Orchestrator, or enhancing Governance, every contribution should align with the project's guiding principles and maintain consistency across the framework.
+Whether you're improving documentation, introducing a new Skill, refining an Orchestrator, or enhancing Governance, every contribution should align with the project's guiding principles and maintain the framework's integrity.
 
 We value **clarity over complexity, systems over shortcuts, and long-term maintainability over quick fixes.**
+
 ---
 
 # Vision
@@ -470,7 +472,7 @@ Agent-A is an open-source project created by **Vishal Solanki**.
 
 The framework is built from practical B2B marketing experience across SaaS, AI, Accessibility, Digital Agencies, SEO, GEO, and Go-to-Market execution.
 
-Rather than teaching AI with isolated prompts, Agent-A provides a structured operating system where specialist skills, orchestrators, and governance work together to produce consistent, transparent, and high-quality marketing outcomes.
+Rather than teaching AI with isolated prompts, Agent-A provides a structured operating system where specialist skills, orchestrators, and governance work together to produce consistent, transparent, and accountable marketing outcomes.
 
 **Created by:** https://www.linkedin.com/in/vishal-solanki/
 
@@ -481,6 +483,7 @@ Rather than teaching AI with isolated prompts, Agent-A provides a structured ope
 MIT License
 
 ---
+
 ## Community
 
 - 📖 [Contributing Guide](CONTRIBUTING.md)
